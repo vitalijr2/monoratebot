@@ -327,7 +327,7 @@
     <module>google-cloud-function</module>
     <module>webhook-bot</module>
   </modules>
-  <name>Monobank Currency Rates Bot</name>
+  <name>Monobank Currency Rate Bot</name>
   <packaging>pom</packaging>
   <profiles>
     <profile>
@@ -361,7 +361,7 @@
                     <outputDirectory>${project.basedir}</outputDirectory>
                     <processEndTag>---------------LICENSE_END-------------------</processEndTag>
                     <processStartTag>---------------LICENSE_START-----------------</processStartTag>
-                    <projectName>Mock Loggers</projectName>
+                    <projectName>Monobank Currency Rate Bot</projectName>
                     <roots>
                       <root>src/main/java</root>
                     </roots>
